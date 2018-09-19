@@ -1,0 +1,12 @@
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
+https://stackoverflow.com/questions/12125980/how-to-create-a-new-variable-in-a-data-frame-based-on-a-condition
+http://www.cookbook-r.com/Manipulating_data/Changing_the_order_of_levels_of_a_factor/
+http://www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software
+https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html
+https://stackoverflow.com/questions/17200114/how-to-split-data-into-training-testing-sets-using-sample-function
+https://stats.idre.ucla.edu/r/dae/ordinal-logistic-regression/
+https://www.analyticsvidhya.com/blog/2016/02/multinomial-ordinal-logistic-regression/
+https://rdrr.io/cran/MASS/man/polr.html
+https://stackoverflow.com/questions/20128781/f-test-for-two-models-in-r
+https://data.library.virginia.edu/fitting-and-interpreting-a-proportional-odds-model/
+https://www.st-andrews.ac.uk/media/capod/students/mathssupport/ordinal%20logistic%20regression.pdf
